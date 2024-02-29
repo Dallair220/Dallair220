@@ -3,24 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dallair220&label=Profile%20views&color=0e75b6&style=flat" alt="dallair220" /> </p>
 
-- 🔭 I’m currently working on [League Ladder](https://github.com/Dallair220/studium)
+- 🔭 I’m currently learning **Express** by working on [League Ladder](https://github.com/Dallair220/studium)
 
-- 🌱 I’m currently learning **Express**
-
-- 👨‍💻 All of my projects are available at [https://paulhermann.me/](https://paulhermann.me/)
-
-- 📝 I regularly write articles on [https://paulhermann.me/blog](https://paulhermann.me/blog)
+- 🌐 My Personal Website: https://paulhermann.me/
 
 - 💬 Ask me about **React, Node.js, MongoDB**
 
 - 📫 How to reach me **phfinan@pm.me**
 
-- 📄 Know about my experiences [https://paulhermann.me/resume](https://paulhermann.me/resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paulhermann220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulhermann220" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paulhermann220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulhermann220" height="30" width="40" /></a>
+<a href="https://twitter.com/paulhermann220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulhermann220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
