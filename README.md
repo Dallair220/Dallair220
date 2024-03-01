@@ -7,9 +7,11 @@
 
 - 🌐 My Personal Website: https://paulhermann.me/
 
-- 💬 Ask me about **React, Node.js, MongoDB**
+- 💬 My preferred tech stack: **MERN** (MongoDB, Express, React, Node)
 
-- 📫 How to reach me **phfinan@pm.me**
+- 💬 I'm interested in learning: **Next.js, NestJS**
+
+- 📫 Email: **phfinan@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
