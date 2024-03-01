@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dallair220&show_icons=true&locale=en&layout=compact" alt="dallair220" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dallair220&show_icons=true&locale=en" alt="dallair220" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dallair220&" alt="dallair220" /></p>
