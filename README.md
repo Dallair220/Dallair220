@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Express** by working on [League Ladder](https://github.com/Dallair220/studium)
 
-- 🌐 My Personal Website: https://paulhermann.me/
+- 🌐 My Personal Website: https://paulhermann.vercel.app/
 
 - 💬 My preferred tech stack: **MERN** (MongoDB, Express, React, Node)
 
