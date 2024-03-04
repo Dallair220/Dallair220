@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently learning **Express** by working on [League Ladder](https://github.com/Dallair220/studium)
 
-- 🌐 My Personal Website: https://paulhermann.vercel.app/
+- 🌐 My Personal Website: [paulhermann.me](https://www.paulhermann.me/)
 
 - 💬 My preferred tech stack: **MERN** (MongoDB, Express, React, Node)
 
 - 💬 I'm interested in learning: **Next.js, NestJS**
 
-- 📫 Email: **phfinan@pm.me**
+- 📫 Email: **paulhermann.dev@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
