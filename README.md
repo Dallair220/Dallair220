@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dallair220&label=Profile%20views&color=0e75b6&style=flat" alt="dallair220" /> </p>
 
-- 🔭 I’m currently learning **Express** by working on [League Ladder](https://github.com/Dallair220/studium)
-
 - 🌐 My Personal Website: [paulhermann.me](https://www.paulhermann.me/)
+- 
+- 📫 Email: **dev@paulhermann.me**
 
 - 💬 My preferred tech stack: **MERN** (MongoDB, Express, React, Node)
 
-- 💬 I'm interested in learning: **Next.js, NestJS**
-
-- 📫 Email: **paulhermann.dev@pm.me**
+- 💬 I'm interested in learning **Next.js, NestJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
